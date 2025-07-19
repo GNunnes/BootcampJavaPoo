@@ -1,8 +1,6 @@
 # Bootcamp Orientação a Objetos em Java
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
-![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/REPO)
-![License](https://img.shields.io/github/license/USERNAME/REPO)
 
 ## Descrição
 
