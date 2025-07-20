@@ -40,7 +40,7 @@ src/
 
 ## Autor
 
-Gustavo N. Bezerra - [LinkedIn](www.linkedin.com/in/gustavo-nunnes) | [GitHub](https://github.com/GNunnes)
+Gustavo N. Bezerra - [LinkedIn](https://www.linkedin.com/in/gustavo-nunnes) | [GitHub](https://github.com/GNunnes)
 
 ---
 
